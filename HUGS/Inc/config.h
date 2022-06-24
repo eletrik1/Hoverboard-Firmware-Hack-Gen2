@@ -44,7 +44,7 @@
 // ################################################################################
 
 #define BAT_LOW_LVL1_MV  24000      // Gently beeps, show green battery symbol above this Level.
-#define BAT_LOW_LVL2_MV  22000      // Battery almost empty, show orange battery symbol above this Level. Charge now! 
+#define BAT_LOW_LVL2_MV  21000      // Battery almost empty, show orange battery symbol above this Level. Charge now! 
 #define BAT_LOW_DEAD_MV  19000      // Undervoltage lockout, show red battery symbol above this Level.
 
 // ################################################################################
